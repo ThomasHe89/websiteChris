@@ -6,3 +6,4 @@
 	it in a different file. Depending on your decision, the 
  	commands are a little different (cf. code).
 - push this to github
+- check out http://thomashe89.github.io/websiteChris/
